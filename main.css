@@ -1,0 +1,6 @@
+div {
+    display: inline-block;
+    width: 1200px;
+    margin-left: calc( (100% - 1200px) / 2);
+    background-color: green;
+}
